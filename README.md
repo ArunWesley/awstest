@@ -1,0 +1,2 @@
+# awstest
+arun aws test
